@@ -13,3 +13,21 @@ class Pessoa:
         self.especie_interesse = especie_interesse
         self.preferencia = preferencia
 
+class Sistema:
+    def __init__(self):
+        self.pessoas = []
+        self.animais = []
+
+    def adiciona_pessoa(self, pessoa):
+        self.pessoas.append(pessoa)
+    
+    def adiciona_animal(self, animal):
+        self.animais.append(animal)
+
+    def exibir_animal(self):
+        for animal in self.animais:
+            print(animal.tipo, animal.idade, animal.cor, animal.porte, animal.particularidade)
+
+    def exibir_pessoa(self):
+        for pessoa in self.pessoas:
+            print(pessoa.nome, pessoa.contato, pessoa.especie_interesse, pessoa.preferencia)
