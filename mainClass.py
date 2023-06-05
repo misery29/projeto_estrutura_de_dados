@@ -13,8 +13,16 @@ class Pessoa:
         self.especie_interesse = especie_interesse
         self.preferencia = preferencia
 
-class Sistema:
+class Tipo:
     def __init__(self):
+        self.tipo = ['Canino', 'Felino']
+
+    def append_tipo(self, tipo):
+        self.tipo.append(tipo)
+
+class Sistema(Tipo):
+    def __init__(self):
+        super().__init__()
         self.pessoas = []
         self.animais = []
 
