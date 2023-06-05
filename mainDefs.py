@@ -12,7 +12,9 @@ def menu(sistema):
 
         if escolha == "1":
             print("Você selecionou a opção 1.")
-            tipo =  input("Informe o tipo: ")
+            for p, t in enumerate(sistema.tipo):
+                print(p, "-", t)
+            tipo =  int(input("Informe o tipo: "))
             idade = int(input("Informe a idade: "))
             cor = input("Informe a cor: ")
             porte = input("Informe o porte: ")
@@ -31,6 +33,9 @@ def menu(sistema):
 
         elif escolha == "3":
             print("Você selecionou a opção 3.")
+            tipo = input("Informe o tipo do animal: ")
+            sistema.append_tipo(tipo)
+            print("Tipo cadastrado com sucesso")
 
         elif escolha == "4":
             sistema.exibir_animal()
@@ -40,3 +45,5 @@ def menu(sistema):
         else:
             print("Opção inválida. Por favor, tente novamente.")
 
+sistema = Sistema()
+menu(sistema)
