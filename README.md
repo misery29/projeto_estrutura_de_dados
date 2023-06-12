@@ -27,5 +27,19 @@ Funcionalidades
 
 
 
+
+
+
+Fluxograma elaborado para desenvolvimento do projeto:
+![mirop2](https://github.com/misery29/projeto_estrutura_de_dados/assets/117862733/03dd160f-d79d-4c0c-8ccf-7fc2e7fab879)
+
+
+
+
+
+
+
+
+
 -
 Univassouras, 2023 - Realizado por Brenno Viana e João Pedro Abreu
