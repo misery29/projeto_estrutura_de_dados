@@ -15,7 +15,7 @@ Este é um projeto de um Sistema de Adoção de Animais, desenvolvido como exemp
 
 ### - Relatório de cruzamento de interesses: o sistema gera um relatório mostrando as pessoas e os animais encontrados que correspondem aos tipos de interesse das pessoas.
 
-###- Estrutura de dados e algoritmos utilizados
+### - Estrutura de dados e algoritmos utilizados
 
 ### - A estrutura de dados utilizada para armazenar os animais e pessoas é uma lista.
 
@@ -30,12 +30,22 @@ Este é um projeto de um Sistema de Adoção de Animais, desenvolvido como exemp
 
 
 
-## Fluxograma elaborado para desenvolvimento do projeto:
+# Fluxograma elaborado para desenvolvimento do projeto:
 ![mirop2](https://github.com/misery29/projeto_estrutura_de_dados/assets/117862733/03dd160f-d79d-4c0c-8ccf-7fc2e7fab879)
 
 
 
 
+## Partes do código:
+![image](https://github.com/misery29/projeto_estrutura_de_dados/assets/117862733/97a3531b-db7a-4953-98b4-31d997914895)
+_arquivo main.py_
+
+
+
+
+
+![image](https://github.com/misery29/projeto_estrutura_de_dados/assets/117862733/acaf1d25-013c-464e-92f3-04d70869aef4)
+_função de pesquisa binária_
 
 
 
