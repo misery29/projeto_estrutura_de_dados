@@ -1,4 +1,9 @@
 # PROJETO ESTRUTURA DE DADOS
+## Orientador: https://github.com/marciogarridoLaCop
+
+
+![images](https://github.com/misery29/projeto_estrutura_de_dados/assets/117862733/7699f996-bbf5-43e9-9510-a5298d359e8e)
+
 
 ## Sistema de Adoção de Animais
 Este é um projeto de um Sistema de Adoção de Animais, desenvolvido como exemplo de aplicação de estruturas de dados e algoritmos. O sistema permite cadastrar animais, pessoas interessadas em adotar e realizar pesquisas por atributos dos animais.
@@ -38,6 +43,7 @@ Este é um projeto de um Sistema de Adoção de Animais, desenvolvido como exemp
 
 ## Partes do código:
 ![image](https://github.com/misery29/projeto_estrutura_de_dados/assets/117862733/97a3531b-db7a-4953-98b4-31d997914895)
+
 _arquivo main.py_
 
 
@@ -45,11 +51,11 @@ _arquivo main.py_
 
 
 ![image](https://github.com/misery29/projeto_estrutura_de_dados/assets/117862733/acaf1d25-013c-464e-92f3-04d70869aef4)
+
 _função de pesquisa binária_
 
 
 
 
 
--
 # Univassouras, 2023 - Realizado por Brenno Viana e João Pedro Abreu
