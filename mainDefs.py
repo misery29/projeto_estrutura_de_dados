@@ -8,7 +8,8 @@ def menu(sistema):
         2. Cadastrar Pessoa
         3. Cadastrar Tipo
         4. Pesquisar Animais
-        5. Sair""")
+        5. Relatório Cruzamento
+        6. Sair""")
 
         escolha = input("Digite o número da opção desejada: ")
 
@@ -48,7 +49,11 @@ def menu(sistema):
             sistema.pesquisa_binaria(atributo, valor)
 
         elif escolha == "5":
-            print("Você selecionou a opção 5. Saindo do programa...")
+            print("Você selecionou a opção 5.")
+            sistema.relatorio_cruzamento()
+
+        elif escolha == "6":
+            print("Você selecionou a opção 6. Saindo do programa...")
             break
 
         else:
