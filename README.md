@@ -1,36 +1,36 @@
-#PROJETO ESTRUTURA DE DADOS
+# PROJETO ESTRUTURA DE DADOS
 
-##Sistema de Adoção de Animais
+## Sistema de Adoção de Animais
 Este é um projeto de um Sistema de Adoção de Animais, desenvolvido como exemplo de aplicação de estruturas de dados e algoritmos. O sistema permite cadastrar animais, pessoas interessadas em adotar e realizar pesquisas por atributos dos animais.
 
-Funcionalidades
+## Funcionalidades
 
-- Cadastrar animais: o usuário pode cadastrar animais informando o tipo, idade, cor, porte e particularidade.
+### - Cadastrar animais: o usuário pode cadastrar animais informando o tipo, idade, cor, porte e particularidade.
 
-- Cadastrar pessoas: o usuário pode cadastrar pessoas interessadas em adotar animais, informando nome, contato, espécie de interesse e preferência.
+### - Cadastrar pessoas: o usuário pode cadastrar pessoas interessadas em adotar animais, informando nome, contato, espécie de interesse e preferência.
 
-- Cadastrar tipos: o usuário pode adicionar novos tipos de animais ao sistema.
+### - Cadastrar tipos: o usuário pode adicionar novos tipos de animais ao sistema.
 
-- Pesquisar animais: o usuário pode realizar pesquisas por atributos dos animais, como tipo, idade, cor, porte e particularidade.
+### - Pesquisar animais: o usuário pode realizar pesquisas por atributos dos animais, como tipo, idade, cor, porte e particularidade.
 
-- Relatório de cruzamento de interesses: o sistema gera um relatório mostrando as pessoas e os animais encontrados que correspondem aos tipos de interesse das pessoas.
+### - Relatório de cruzamento de interesses: o sistema gera um relatório mostrando as pessoas e os animais encontrados que correspondem aos tipos de interesse das pessoas.
 
-- Estrutura de dados e algoritmos utilizados
+###- Estrutura de dados e algoritmos utilizados
 
-- A estrutura de dados utilizada para armazenar os animais e pessoas é uma lista.
+### - A estrutura de dados utilizada para armazenar os animais e pessoas é uma lista.
 
-- O sistema utiliza o algoritmo de pesquisa binária para realizar as pesquisas por atributos.
+### - O sistema utiliza o algoritmo de pesquisa binária para realizar as pesquisas por atributos.
 
-- Para ordenar os animais por atributo, é utilizada a função sort() com uma função lambda como chave de ordenação.
-
-
+### - Para ordenar os animais por atributo, é utilizada a função sort() com uma função lambda como chave de ordenação.
 
 
 
 
 
 
-##Fluxograma elaborado para desenvolvimento do projeto:
+
+
+## Fluxograma elaborado para desenvolvimento do projeto:
 ![mirop2](https://github.com/misery29/projeto_estrutura_de_dados/assets/117862733/03dd160f-d79d-4c0c-8ccf-7fc2e7fab879)
 
 
@@ -42,4 +42,4 @@ Funcionalidades
 
 
 -
-Univassouras, 2023 - Realizado por Brenno Viana e João Pedro Abreu
+# Univassouras, 2023 - Realizado por Brenno Viana e João Pedro Abreu
