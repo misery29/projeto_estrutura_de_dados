@@ -1,6 +1,6 @@
-PROJETO ESTRUTURA DE DADOS
+#PROJETO ESTRUTURA DE DADOS
 
-Sistema de Adoção de Animais
+##Sistema de Adoção de Animais
 Este é um projeto de um Sistema de Adoção de Animais, desenvolvido como exemplo de aplicação de estruturas de dados e algoritmos. O sistema permite cadastrar animais, pessoas interessadas em adotar e realizar pesquisas por atributos dos animais.
 
 Funcionalidades
@@ -30,7 +30,7 @@ Funcionalidades
 
 
 
-Fluxograma elaborado para desenvolvimento do projeto:
+##Fluxograma elaborado para desenvolvimento do projeto:
 ![mirop2](https://github.com/misery29/projeto_estrutura_de_dados/assets/117862733/03dd160f-d79d-4c0c-8ccf-7fc2e7fab879)
 
 
