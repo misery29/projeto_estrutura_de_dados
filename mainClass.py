@@ -96,7 +96,6 @@ class Sistema(Tipo):
             else:
                 fim = meio - 1
 
-        self.exibir_resultados_pesquisa(resultados)
         return resultados
     def exibir_resultados_pesquisa(self, resultados):
         if resultados:
@@ -136,15 +135,6 @@ class Sistema(Tipo):
                     for animal in resultados:
                         print("--------------------")
                         print(f"Animais encontrados para o tipo '{interesse}':")
-                        self.exibir_atributo(animal, "tipo")
-                        self.exibir_atributo(animal, "idade")
-                        self.exibir_atributo(animal, "cor")
-                        self.exibir_atributo(animal, "porte")
-                        self.exibir_atributo(animal, "particularidade")
-                        print("-" * 20)
-
-                    if len(resultados) > 1:
-                        print("--------------------")
                         self.exibir_atributo(animal, "tipo")
                         self.exibir_atributo(animal, "idade")
                         self.exibir_atributo(animal, "cor")
