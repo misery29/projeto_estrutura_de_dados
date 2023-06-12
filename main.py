@@ -4,7 +4,7 @@ from mainDefs import *
 sistema = Sistema()
 
 animal1 = Animal("Felino", 3, "Rajado", "Pequeno", "Mija demais")
-animal2 = Animal("Canino", 8, "Branco", "Grande", "Late pouco")
+animal2 = Animal("Canino", 8, "Branci", "Grande", "Late pouco")
 animal3 = Animal("Canino", 3, "Marrom", "Pequeno", "Late muito")
 animal4 = Animal("Felino", 5, "Preto", "Médio", "Gosta de brincar")
 sistema.adiciona_animal(animal1)
@@ -19,5 +19,4 @@ sistema.adiciona_pessoa(pessoa1)
 sistema.adiciona_pessoa(pessoa2)
 
 
-
-sistema.relatorio_cruzamento()
+menu(sistema)
