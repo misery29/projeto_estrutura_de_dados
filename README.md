@@ -22,3 +22,7 @@ Funcionalidades
 - O sistema utiliza o algoritmo de pesquisa binária para realizar as pesquisas por atributos.
 
 - Para ordenar os animais por atributo, é utilizada a função sort() com uma função lambda como chave de ordenação.
+
+
+
+Univassouras, 2023 - Realizado por Brenno Viana e João Pedro Abreu
