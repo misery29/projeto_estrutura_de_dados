@@ -1,8 +1,8 @@
 # PROJETO ESTRUTURA DE DADOS
 ## Orientador: https://github.com/marciogarridoLaCop
 
+![shutterstock_2068912751-scaled](https://github.com/misery29/projeto_estrutura_de_dados/assets/117862733/a0f6d9c0-4ce1-43bf-b6d7-c63576bd15ed)
 
-<img src="rolanocano.jpg" width="600">
 
 ## Sistema de Adoção de Animais
 Este é um projeto de um Sistema de Adoção de Animais, desenvolvido como exemplo de aplicação de estruturas de dados e algoritmos. O sistema permite cadastrar animais, pessoas interessadas em adotar e realizar pesquisas por atributos dos animais.
