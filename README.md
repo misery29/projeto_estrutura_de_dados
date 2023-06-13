@@ -2,7 +2,7 @@
 ## Orientador: https://github.com/marciogarridoLaCop
 
 
-![images](https://github.com/misery29/projeto_estrutura_de_dados/assets/117862733/7699f996-bbf5-43e9-9510-a5298d359e8e){width=500 height=400}
+![images](https://github.com/misery29/projeto_estrutura_de_dados/assets/117862733/7699f996-bbf5-43e9-9510-a5298d359e8e){:style="width:600px; height:400px;"}
 
 
 ## Sistema de Adoção de Animais
