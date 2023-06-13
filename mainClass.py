@@ -95,7 +95,7 @@ class Sistema(Tipo):
                 inicio = meio + 1
             else:
                 fim = meio - 1
-
+        self.exibir_resultados_pesquisa(resultados)
         return resultados
     def exibir_resultados_pesquisa(self, resultados):
         if resultados:
